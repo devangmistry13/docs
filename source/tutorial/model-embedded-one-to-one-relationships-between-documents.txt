@@ -1,4 +1,4 @@
-.. _data-modeling-example-one-to-one:
+.. _data-modeling-example-one-to-one
 
 ======================================================
 Model One-to-One Relationships with Embedded Documents
